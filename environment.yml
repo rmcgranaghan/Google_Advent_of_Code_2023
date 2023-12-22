@@ -1,0 +1,16 @@
+name: google-advent
+
+dependencies:
+  - ipython
+  - matplotlib
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - numpy
+  - plotly
+  - nbconvert=5.4.1
+  - pip:
+    - jupyter
+    - datetime
+    - notebook>=5.3
